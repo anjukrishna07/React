@@ -1,0 +1,22 @@
+[
+    {"name": "Laptop", "category": "Electronics", "price": 800, "stock": 50},
+    {"name": "Smartphone", "category": "Electronics", "price": 500, "stock": 100},
+    {"name": "Headphones", "category": "Electronics", "price": 50, "stock": 200},
+    {"name": "Bluetooth Speaker", "category": "Electronics", "price": 75, "stock": 150},
+    {"name": "Tablet", "category": "Electronics", "price": 300, "stock": 80},
+    {"name": "Smartwatch", "category": "Wearables", "price": 150, "stock": 120},
+    {"name": "Digital Camera", "category": "Photography", "price": 600, "stock": 40},
+    {"name": "External Hard Drive", "category": "Accessories", "price": 100, "stock": 90},
+    {"name": "Wireless Mouse", "category": "Accessories", "price": 20, "stock": 300},
+    {"name": "Keyboard", "category": "Accessories", "price": 30, "stock": 250},
+    {"name": "Gaming Console", "category": "Gaming", "price": 400, "stock": 70},
+    {"name": "LED Monitor", "category": "Electronics", "price": 200, "stock": 60},
+    {"name": "Fitness Tracker", "category": "Wearables", "price": 80, "stock": 130},
+    {"name": "Router", "category": "Networking", "price": 120, "stock": 95},
+    {"name": "Electric Toothbrush", "category": "Health & Personal Care", "price": 60, "stock": 100},
+    {"name": "Blender", "category": "Home Appliances", "price": 90, "stock": 110},
+    {"name": "Microwave Oven", "category": "Home Appliances", "price": 150, "stock": 55},
+    {"name": "Air Fryer", "category": "Home Appliances", "price": 130, "stock": 75},
+    {"name": "Vacuum Cleaner", "category": "Home Appliances", "price": 220, "stock": 45},
+    {"name": "Water Bottle", "category": "Sports & Outdoors", "price": 15, "stock": 300}
+]
