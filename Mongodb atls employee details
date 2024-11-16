@@ -1,0 +1,202 @@
+[
+  {
+    "employee_id": "E001",
+    "name": "Alice Johnson",
+    "position": "Software Engineer",
+    "department": "Engineering",
+    "hire_date": "2021-03-15",
+    "email": "alice.johnson@example.com",
+    "salary": 95000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E002",
+    "name": "Bob Smith",
+    "position": "Product Manager",
+    "department": "Product",
+    "hire_date": "2019-06-01",
+    "email": "bob.smith@example.com",
+    "salary": 105000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E003",
+    "name": "Charlie Davis",
+    "position": "HR Specialist",
+    "department": "Human Resources",
+    "hire_date": "2020-11-20",
+    "email": "charlie.davis@example.com",
+    "salary": 72000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E004",
+    "name": "David Lee",
+    "position": "Data Scientist",
+    "department": "Engineering",
+    "hire_date": "2022-01-25",
+    "email": "david.lee@example.com",
+    "salary": 115000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E005",
+    "name": "Eva Green",
+    "position": "Marketing Manager",
+    "department": "Marketing",
+    "hire_date": "2018-09-15",
+    "email": "eva.green@example.com",
+    "salary": 95000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E006",
+    "name": "Frank Walker",
+    "position": "Sales Executive",
+    "department": "Sales",
+    "hire_date": "2023-05-10",
+    "email": "frank.walker@example.com",
+    "salary": 60000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E007",
+    "name": "Grace Taylor",
+    "position": "UX Designer",
+    "department": "Design",
+    "hire_date": "2020-07-08",
+    "email": "grace.taylor@example.com",
+    "salary": 85000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E008",
+    "name": "Hannah Martinez",
+    "position": "Software Engineer",
+    "department": "Engineering",
+    "hire_date": "2021-02-17",
+    "email": "hannah.martinez@example.com",
+    "salary": 90000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E009",
+    "name": "Irene Wilson",
+    "position": "Legal Counsel",
+    "department": "Legal",
+    "hire_date": "2017-12-05",
+    "email": "irene.wilson@example.com",
+    "salary": 110000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E010",
+    "name": "James Rodriguez",
+    "position": "Customer Support Specialist",
+    "department": "Customer Service",
+    "hire_date": "2019-03-10",
+    "email": "james.rodriguez@example.com",
+    "salary": 50000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E011",
+    "name": "Kathy Green",
+    "position": "Financial Analyst",
+    "department": "Finance",
+    "hire_date": "2022-08-01",
+    "email": "kathy.green@example.com",
+    "salary": 95000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E012",
+    "name": "Leo Adams",
+    "position": "Business Analyst",
+    "department": "Business Development",
+    "hire_date": "2023-04-15",
+    "email": "leo.adams@example.com",
+    "salary": 85000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E013",
+    "name": "Mona Carter",
+    "position": "QA Engineer",
+    "department": "Quality Assurance",
+    "hire_date": "2021-11-30",
+    "email": "mona.carter@example.com",
+    "salary": 78000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E014",
+    "name": "Nathan Scott",
+    "position": "Chief Technology Officer",
+    "department": "Executive",
+    "hire_date": "2015-06-22",
+    "email": "nathan.scott@example.com",
+    "salary": 160000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E015",
+    "name": "Olivia King",
+    "position": "Senior Developer",
+    "department": "Engineering",
+    "hire_date": "2018-04-17",
+    "email": "olivia.king@example.com",
+    "salary": 105000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E016",
+    "name": "Paul Harris",
+    "position": "Operations Manager",
+    "department": "Operations",
+    "hire_date": "2020-02-12",
+    "email": "paul.harris@example.com",
+    "salary": 88000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E017",
+    "name": "Quinn Perez",
+    "position": "Chief Marketing Officer",
+    "department": "Marketing",
+    "hire_date": "2016-05-24",
+    "email": "quinn.perez@example.com",
+    "salary": 145000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E018",
+    "name": "Rita Brooks",
+    "position": "Administrative Assistant",
+    "department": "Admin",
+    "hire_date": "2017-07-05",
+    "email": "rita.brooks@example.com",
+    "salary": 42000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E019",
+    "name": "Steve Clark",
+    "position": "Marketing Coordinator",
+    "department": "Marketing",
+    "hire_date": "2021-09-10",
+    "email": "steve.clark@example.com",
+    "salary": 62000,
+    "status": "active"
+  },
+  {
+    "employee_id": "E020",
+    "name": "Tina Lewis",
+    "position": "Social Media Manager",
+    "department": "Marketing",
+    "hire_date": "2022-02-02",
+    "email": "tina.lewis@example.com",
+    "salary": 73000,
+    "status": "active"
+  }
+]
